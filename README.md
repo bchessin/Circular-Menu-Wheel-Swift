@@ -1,9 +1,8 @@
-# Circular-Menu-Wheel-Swift-
+# Circular-Menu-Wheel-Swift
 This a circular menu wheel designed fully in Swift (Port of https://github.com/bchessin/Circular-Menu-Wheel)
 
 --Original Spec--
 
-# Circular-Menu-Wheel
 This is a circular menu wheel that uses standard Objective C code and only requires about < 450 lines of code. Originally made in April 2018.
 
 Specs:
